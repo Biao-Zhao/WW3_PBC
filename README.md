@@ -1,0 +1,1 @@
+By modifying the PR3 scheme, this version of WW3 supports double-periodic boundary conditions in Cartesian coordinates and rectangular grids. This modification is designed for idealized experiments, ensuring rapid wave growth and significantly reducing computational demands
